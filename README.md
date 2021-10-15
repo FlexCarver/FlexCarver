@@ -5,7 +5,7 @@
 ### History
 
 FlexCarver was built to help students @ the [Fachhochschule Salzburg](https://www.fh-salzburg.ac.at/) get a head start building websites.  
-It now includes a demo for a MySQL - PHP API @ the hian (HTML in a nutshell) theme - 12.10.2021
+It includes a demo for a MySQL - PHP API @ the hian (HTML in a nutshell) theme
 
 
 ### Install
