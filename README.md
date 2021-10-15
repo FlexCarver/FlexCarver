@@ -17,6 +17,8 @@ It now includes a demo for a MySQL - PHP API @ the hian (HTML in a nutshell) the
 - in your gitbash command window -> go to the project directory and into src
 - run "npm install --only=dev"
 - change the web/api/index.txt to your settings and change the name to index.php for using the web/api example
+- add the directory web/crud and add the single file api.php for using the web/crud/api.php example - [php-crud-api](https://github.com/mevdschee/php-crud-api)
+- make sure to set the config at the bottom of the api.php file if you want to use it - like in the web/api/index.php file
 - point your [xampp](https://www.apachefriends.org/de/index.html) installation to the project directory (httpd.config - DocumentRoot and the Directory-tag underneath), which is the projectname/web for the root of your site - restart apache
 
 #### Ready to go!
