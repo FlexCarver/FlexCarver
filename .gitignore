@@ -1,0 +1,4 @@
+node_modules/
+notes.txt
+web/api/index.php
+web/crud/api.php
