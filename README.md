@@ -13,7 +13,7 @@ It includes a demo for a MySQL - PHP API @ the hian (HTML in a nutshell) theme
 - install git/git bash [Git](https://git-scm.com/downloads)
 - install node and npm globally - [Node.js](https://nodejs.org/en/)
 - in your gitbash command window install grunt globally "npm install grunt -g"
-- in your gitbash command window -> go to your FlexCarver project directory and into src
+- in your gitbash command window -> go to your FlexCarver project directory and into the src directory
 - run "npm install --only=dev" - this will install all the needed node-modules for development
 - change the web/api/index.txt to your settings and change the name to index.php for using the web/api example
 - add the directory web/crud and add the single file api.php for using the web/crud/api.php example - [php-crud-api](https://github.com/mevdschee/php-crud-api)
