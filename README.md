@@ -40,7 +40,7 @@ It includes a demo for a MySQL - PHP API @ the hian (HTML in a nutshell) theme
 
 ### Roadmap
 
-- This little framework will be extended during the winter semester 2020/2021
+- The roadmap depends on the stars - if a suitable project comes along, we will extend it with the needed functionality
 
 ### License - MIT
 
