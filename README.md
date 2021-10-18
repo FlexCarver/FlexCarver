@@ -38,9 +38,6 @@ It includes a demo for a MySQL - PHP API @ the hian (HTML in a nutshell) theme
 
 - using the [hian theme - html in a nutshell](https://hian.flexcarver.net/)  
 
-### Roadmap
-
-- The roadmap depends on the stars - if a suitable project comes along, we will extend it with the needed functionality
 
 ### License - MIT
 
